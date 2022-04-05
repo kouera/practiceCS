@@ -1,0 +1,15 @@
+C:\Courses\practiceCS\Lektion-1\ConsoleApp_NET6\bin\Debug\net6.0\ConsoleApp_NET6.exe
+C:\Courses\practiceCS\Lektion-1\ConsoleApp_NET6\bin\Debug\net6.0\ConsoleApp_NET6.deps.json
+C:\Courses\practiceCS\Lektion-1\ConsoleApp_NET6\bin\Debug\net6.0\ConsoleApp_NET6.runtimeconfig.json
+C:\Courses\practiceCS\Lektion-1\ConsoleApp_NET6\bin\Debug\net6.0\ConsoleApp_NET6.dll
+C:\Courses\practiceCS\Lektion-1\ConsoleApp_NET6\bin\Debug\net6.0\ref\ConsoleApp_NET6.dll
+C:\Courses\practiceCS\Lektion-1\ConsoleApp_NET6\bin\Debug\net6.0\ConsoleApp_NET6.pdb
+C:\Courses\practiceCS\Lektion-1\ConsoleApp_NET6\obj\Debug\net6.0\ConsoleApp_NET6.csproj.AssemblyReference.cache
+C:\Courses\practiceCS\Lektion-1\ConsoleApp_NET6\obj\Debug\net6.0\ConsoleApp_NET6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Courses\practiceCS\Lektion-1\ConsoleApp_NET6\obj\Debug\net6.0\ConsoleApp_NET6.AssemblyInfoInputs.cache
+C:\Courses\practiceCS\Lektion-1\ConsoleApp_NET6\obj\Debug\net6.0\ConsoleApp_NET6.AssemblyInfo.cs
+C:\Courses\practiceCS\Lektion-1\ConsoleApp_NET6\obj\Debug\net6.0\ConsoleApp_NET6.csproj.CoreCompileInputs.cache
+C:\Courses\practiceCS\Lektion-1\ConsoleApp_NET6\obj\Debug\net6.0\ConsoleApp_NET6.dll
+C:\Courses\practiceCS\Lektion-1\ConsoleApp_NET6\obj\Debug\net6.0\ref\ConsoleApp_NET6.dll
+C:\Courses\practiceCS\Lektion-1\ConsoleApp_NET6\obj\Debug\net6.0\ConsoleApp_NET6.pdb
+C:\Courses\practiceCS\Lektion-1\ConsoleApp_NET6\obj\Debug\net6.0\ConsoleApp_NET6.genruntimeconfig.cache
