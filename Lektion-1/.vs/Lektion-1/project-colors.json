@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7603fae2-569b-4a07-8c03-d8c155e90707": {
+      "ProjectGuid": "7603fae2-569b-4a07-8c03-d8c155e90707",
+      "DisplayName": "ConsoleApp-NET5",
+      "ColorIndex": 0
+    },
+    "1c59478a-4069-4132-8266-09c565977208": {
+      "ProjectGuid": "1c59478a-4069-4132-8266-09c565977208",
+      "DisplayName": "ConsoleApp_NET6",
+      "ColorIndex": 1
+    },
+    "c3f31112-401a-43c3-83f5-96b4cd81ea5e": {
+      "ProjectGuid": "c3f31112-401a-43c3-83f5-96b4cd81ea5e",
+      "DisplayName": "ConsoleApp_NET6",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
