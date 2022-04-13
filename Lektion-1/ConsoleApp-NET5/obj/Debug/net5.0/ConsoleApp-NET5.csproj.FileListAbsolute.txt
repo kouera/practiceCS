@@ -1,0 +1,16 @@
+C:\Courses\practiceCS\Lektion-1\ConsoleApp-NET5\bin\Debug\net5.0\ConsoleApp-NET5.exe
+C:\Courses\practiceCS\Lektion-1\ConsoleApp-NET5\bin\Debug\net5.0\ConsoleApp-NET5.deps.json
+C:\Courses\practiceCS\Lektion-1\ConsoleApp-NET5\bin\Debug\net5.0\ConsoleApp-NET5.runtimeconfig.json
+C:\Courses\practiceCS\Lektion-1\ConsoleApp-NET5\bin\Debug\net5.0\ConsoleApp-NET5.runtimeconfig.dev.json
+C:\Courses\practiceCS\Lektion-1\ConsoleApp-NET5\bin\Debug\net5.0\ConsoleApp-NET5.dll
+C:\Courses\practiceCS\Lektion-1\ConsoleApp-NET5\bin\Debug\net5.0\ref\ConsoleApp-NET5.dll
+C:\Courses\practiceCS\Lektion-1\ConsoleApp-NET5\bin\Debug\net5.0\ConsoleApp-NET5.pdb
+C:\Courses\practiceCS\Lektion-1\ConsoleApp-NET5\obj\Debug\net5.0\ConsoleApp-NET5.csproj.AssemblyReference.cache
+C:\Courses\practiceCS\Lektion-1\ConsoleApp-NET5\obj\Debug\net5.0\ConsoleApp-NET5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Courses\practiceCS\Lektion-1\ConsoleApp-NET5\obj\Debug\net5.0\ConsoleApp-NET5.AssemblyInfoInputs.cache
+C:\Courses\practiceCS\Lektion-1\ConsoleApp-NET5\obj\Debug\net5.0\ConsoleApp-NET5.AssemblyInfo.cs
+C:\Courses\practiceCS\Lektion-1\ConsoleApp-NET5\obj\Debug\net5.0\ConsoleApp-NET5.csproj.CoreCompileInputs.cache
+C:\Courses\practiceCS\Lektion-1\ConsoleApp-NET5\obj\Debug\net5.0\ConsoleApp-NET5.dll
+C:\Courses\practiceCS\Lektion-1\ConsoleApp-NET5\obj\Debug\net5.0\ref\ConsoleApp-NET5.dll
+C:\Courses\practiceCS\Lektion-1\ConsoleApp-NET5\obj\Debug\net5.0\ConsoleApp-NET5.pdb
+C:\Courses\practiceCS\Lektion-1\ConsoleApp-NET5\obj\Debug\net5.0\ConsoleApp-NET5.genruntimeconfig.cache
