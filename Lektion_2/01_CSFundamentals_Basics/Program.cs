@@ -19,6 +19,101 @@
 
 #region DATA TYPES
 
+/*
+    FRONTEND(ASP.NET) - BACKEND(ASP.NET C#) - DATABASE (MSSQL) 
+    FRONTEND(REACT JS) - BACKEND API(C#)     - DATABASE (MSSQL) 
+    JS              C#                                           SQL
+    --------------------------------------------------------------------------------------------------------------
+    Number          sbyte, byte, ushort, int, uint, long, bit, tinyint, smallint, int, bigint,
+                    ulong, Int16, Int32, Int64, decimal, decimal, float, real, smallmoney,
+                    double, float                                money, numeric
+
+
+    String          char, string                                 char, varchar, text, nchar, nvarchar, ntext
+    Boolean         bool                                         bit
+    Object          object-- -
+    null(Object)   null                                         null
+    Undefined       null                                         null
+    -- - dynamic-- -
+    ---Guid(Global Unique Identifier)              uniqueidentifier
+   
+
+C# Integrals
+    TYPE            BIT             RANGE(START / END)       8, 16, 32, 64, 128, 256, 512, 1024, 2048, 4096, 8192, 16384, 32768, 65536
+    --------------------------------------------------------------------------------------------------------------------
+    sbyte           8 - 128                    127
+    byte            8               0                       255
+    short           16 - 32768                  32767
+    ushort          16              0                       65535
+    int             32 - 2147483648             2147483647
+    uint            32              0                       4292967295
+    long            64 - 9223372036854775808    9223372036854775807
+    ulong           64              0                       18446744073709551615
+    Int16           16              samma som short
+    Int32           32              samma som int
+    Int64           64              samma som long
+    int firstNumber = 1;
+long secondNumber = 2;
+long sum = firstNumber + secondNumber;
+
+C# Floating Points
+    TYPE            BYTES           DECIMAL RANGE       SUFFIX          USED FOR
+    ---------------------------------------------------------------------------------------------------------------------
+    float           4               6-9 digits          f eller F       lämplig för Machine Learning, iot-sensorer
+    double          8               15-16 digits        d eller D       lämplig för optimering av lagring/prestanda
+    decimal         16              28-29 digits        m eller M       lämplig för finansiella tal som pengar
+    float   sumFloat   = 0.1f + 0.1f + 0.1F;
+double sumDouble = 0.1 + 0.1d + 0.1D;
+decimal sumDecimal = 0.1m + 0.1m + 0.1M;
+Console.WriteLine("FLOAT: " + sumFloat);
+Console.WriteLine("DOUBLE: " + sumDouble);
+Console.WriteLine("DECIMAL: " + sumDecimal);
+
+C# Strings
+    TYPE            BIT             SCHEME                      CHAR RANGE
+    --------------------------------------------------------------------------------------------------------------------
+    char            16              ASCII/UTF-8 (unicode)       ASCII(X + 0000->X + FFFF) UTF8(U + 0000->U + FFFF)
+    string 64              ASCII / UTF - 8(unicode)       max 2GB(~1 000 000 000 tecken)
+    ASCII = Engelskt tangentbord
+    UTF-8 = Svenskt tangentbord (dvs specialtecken som åäö)
+    var message = new Message(Encoding.UTF8.GetBytes("Här är mitt namn..."));
+var message = new Message(Encoding.ASCII.GetBytes("Har ar mitt namn..."));
+char text = '';
+string text = "Här är en text";
+    \       talar om att den ska läsa nästa tecken som en helt vanlig tecken
+    @""     talar om att den ska läsa hela textsträngen som helt vanlig text
+    $""     vi skriver då med hjälp av placeholders som läggs in i {variablenamnet}  
+    \n vi gör en radbrytning
+    \t      vi gör ett tabbindrag
+    string citat = "Tommy är den \"bästa\" människan i världen.";
+string citat = "Tommy är den 'bästa' människan i världen.";
+
+string json = "{ \"firstName\": \"Hans\", \"lastName\": \"Mattin-Lassei\", \"age\": 37 }";
+string filePath = "D:\\LEXICON\\NETFUND21\\cs\\lektion-2\\01_CSFundamentals_Basics\\Program.cs";
+string filePath = @"D:\LEXICON\NETFUND21\cs\lektion-2\01_CSFundamentals_Basics\Program.cs";
+string firstName = "Hans";
+string lastName = "Mattin-Lassei";
+int age = 37;
+string city = "Vega";
+string state = "Haninge";
+string placeholder = "Jag heter Hans Mattin-Lassei och jag är 37 år \"gammal\" och bor i Vega i Haninge.";
+string placeholder = "Jag heter " + firstName + " " + lastName + " och jag är " + age + " år \"gammal\" och bor i " + city + " i " + state + ".";
+string placeholder = string.Format("Jag heter {0} {1} och jag är {2} år \"gammal\" och bor i {3} i {4}.", firstName, lastName, age, city, state);
+string placeholder = $"Jag heter {firstName} {lastName} och jag är {age} år \"gammal\" och bor i {city} i {state}.";
+string fileName = "Program.cs";
+string filePath = @$"D:\LEXICON\NETFUND21\cs\lektion-2\01_CSFundamentals_Basics\{fileName}";
+C# Boolean
+    TYPE        BIT         VALUES
+    --------------------------------------------------------------------------------------------------------------------
+    bool        0/1         false/true    
+    
+    C# Guid (Global Unique Identifier) 
+    VARIABLE        BYTES               COMMAND                     RESULT
+    --------------------------------------------------------------------------------------------------------------------
+    Guid id; 16                  Guid.NewGuid(); 8428f0a1 - 129e-4c57 - a5aa - 461bfd15da84
+
+
+
 /* 
     FRONTEND (ASP.NET)  - BACKEND (ASP.NET C#) - DATABASE (MSSQL) 
     FRONTEND (REACT JS) - BACKEND API (C#)     - DATABASE (MSSQL) 
@@ -159,6 +254,50 @@
 
 #region LISTS and ARRAYS
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*  
     LIST - dynamisk lista
     -------------------------------------------------------------------------------------------------------
@@ -166,8 +305,10 @@
     List<Customer> customers        List<Customer> customers = new();
     List<string> names              var names = new List<string>();
     index 0,1,2,3,4,5
+
         // CREATE INSTANCE OF LIST WITH DEFAULT VALUES
         var names = new List<string>() { "Hans" };
+
         // ADD TO THE END OF THE LIST
         names.Add("Joakim");
         names.Add("Tommy");
@@ -175,19 +316,51 @@
         names.Add("Frida");
         names.Add("Martin");
         names.Add("Hans");
+
         // INSERT AT A SPECIFIC POSITION
         names.Insert(1, "Stefan");
+
         // SORT THE LIST
         names.Sort();
         names.Reverse();
+
         // REMOVE FROM LIST
         names.Remove("Stefan");
         names.RemoveAt(1);
         //names.Clear();
+
         // FILTER THE LIST
         names = names.Where(name => name == "Hans").ToList();
         foreach(var name in names)
             Console.WriteLine(name);
+
+     //MULTIPLY NUMBERS FROM A LIST 
+     1- BAD WAY :
+
+    List<int> myList = new List<int>() { 4, 7, 10 };
+    int mult = 1;
+    foreach (int i in myList)
+        mult *= i;
+    Console.WriteLine(mult);
+
+    2- GOOD WAY : LINQ (Language Integrated Query)
+
+    List<int> myList = new List<int>() { 4, 7, 10 };
+    var mult = myList.Aggregate((x, y) => x * y);
+    Console.WriteLine(mult);
+
+    List<int> myList = new List<int>() { 4, 7, 10};
+    var mult = myList
+    .Select(X => Math.Pow(X, 2))
+    .Aggregate((a, b) => a * b);
+    Console.WriteLine(mult);
+
+    
+    
+
+    
+
+
     ARRAY   (en array är inte en lista) - fast lista
     -------------------------------------------------------------------------------
     string[] names                  string[] names = new string[5];     
@@ -201,6 +374,9 @@
     foreach (string name in names)
         Console.WriteLine(name);
 */
+
+
+
 
 #endregion
 
@@ -240,3 +416,7 @@
     while(i < 10);
 */
 #endregion
+
+
+
+
