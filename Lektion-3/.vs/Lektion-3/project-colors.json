@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "943487f7-0bce-450f-bb4c-89408a3c07b9": {
+      "ProjectGuid": "943487f7-0bce-450f-bb4c-89408a3c07b9",
+      "DisplayName": "OOP",
+      "ColorIndex": 0
+    },
+    "665cd212-cfd9-494e-b50f-ef9aab0d3f41": {
+      "ProjectGuid": "665cd212-cfd9-494e-b50f-ef9aab0d3f41",
+      "DisplayName": "Classes",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

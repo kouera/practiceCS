@@ -1,0 +1,15 @@
+C:\Courses\practiceCS\Lektion-4\00_Repetition\bin\Debug\net6.0\00_Repetition.exe
+C:\Courses\practiceCS\Lektion-4\00_Repetition\bin\Debug\net6.0\00_Repetition.deps.json
+C:\Courses\practiceCS\Lektion-4\00_Repetition\bin\Debug\net6.0\00_Repetition.runtimeconfig.json
+C:\Courses\practiceCS\Lektion-4\00_Repetition\bin\Debug\net6.0\00_Repetition.dll
+C:\Courses\practiceCS\Lektion-4\00_Repetition\bin\Debug\net6.0\ref\00_Repetition.dll
+C:\Courses\practiceCS\Lektion-4\00_Repetition\bin\Debug\net6.0\00_Repetition.pdb
+C:\Courses\practiceCS\Lektion-4\00_Repetition\obj\Debug\net6.0\00_Repetition.csproj.AssemblyReference.cache
+C:\Courses\practiceCS\Lektion-4\00_Repetition\obj\Debug\net6.0\00_Repetition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Courses\practiceCS\Lektion-4\00_Repetition\obj\Debug\net6.0\00_Repetition.AssemblyInfoInputs.cache
+C:\Courses\practiceCS\Lektion-4\00_Repetition\obj\Debug\net6.0\00_Repetition.AssemblyInfo.cs
+C:\Courses\practiceCS\Lektion-4\00_Repetition\obj\Debug\net6.0\00_Repetition.csproj.CoreCompileInputs.cache
+C:\Courses\practiceCS\Lektion-4\00_Repetition\obj\Debug\net6.0\00_Repetition.dll
+C:\Courses\practiceCS\Lektion-4\00_Repetition\obj\Debug\net6.0\ref\00_Repetition.dll
+C:\Courses\practiceCS\Lektion-4\00_Repetition\obj\Debug\net6.0\00_Repetition.pdb
+C:\Courses\practiceCS\Lektion-4\00_Repetition\obj\Debug\net6.0\00_Repetition.genruntimeconfig.cache

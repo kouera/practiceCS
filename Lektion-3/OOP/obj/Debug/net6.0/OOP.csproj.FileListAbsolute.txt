@@ -1,0 +1,15 @@
+C:\Courses\practiceCS\Lektion-3\OOP\bin\Debug\net6.0\OOP.exe
+C:\Courses\practiceCS\Lektion-3\OOP\bin\Debug\net6.0\OOP.deps.json
+C:\Courses\practiceCS\Lektion-3\OOP\bin\Debug\net6.0\OOP.runtimeconfig.json
+C:\Courses\practiceCS\Lektion-3\OOP\bin\Debug\net6.0\OOP.dll
+C:\Courses\practiceCS\Lektion-3\OOP\bin\Debug\net6.0\ref\OOP.dll
+C:\Courses\practiceCS\Lektion-3\OOP\bin\Debug\net6.0\OOP.pdb
+C:\Courses\practiceCS\Lektion-3\OOP\obj\Debug\net6.0\OOP.csproj.AssemblyReference.cache
+C:\Courses\practiceCS\Lektion-3\OOP\obj\Debug\net6.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Courses\practiceCS\Lektion-3\OOP\obj\Debug\net6.0\OOP.AssemblyInfoInputs.cache
+C:\Courses\practiceCS\Lektion-3\OOP\obj\Debug\net6.0\OOP.AssemblyInfo.cs
+C:\Courses\practiceCS\Lektion-3\OOP\obj\Debug\net6.0\OOP.csproj.CoreCompileInputs.cache
+C:\Courses\practiceCS\Lektion-3\OOP\obj\Debug\net6.0\OOP.dll
+C:\Courses\practiceCS\Lektion-3\OOP\obj\Debug\net6.0\ref\OOP.dll
+C:\Courses\practiceCS\Lektion-3\OOP\obj\Debug\net6.0\OOP.pdb
+C:\Courses\practiceCS\Lektion-3\OOP\obj\Debug\net6.0\OOP.genruntimeconfig.cache
